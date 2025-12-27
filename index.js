@@ -18,7 +18,7 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "154846825967";        // Group ka ID
+const GROUP_THREAD_ID = "4363799723740462";        // Group ka ID
 const LOCKED_GROUP_NAME = "KUNWAR URF AYAN KI MAA CHODNE WALA AMIT HERE 🙈🤡👈";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
