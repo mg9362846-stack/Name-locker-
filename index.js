@@ -25,7 +25,7 @@ const LOCKED_GROUP_NAME = "KUNWAR URF AYAN KI MAA CHODNE WALA AMIT HERE 🙈🤡
 const app = express();
 const PORT = process.env.PORT || 3000;
 app.get("/", (req, res) =>
-  res.send("🤖 Group Name Locker Bot is alive! 👨‍💻 Developer: Axshu 🩷")
+  res.send("🤖 Group Name Locker Bot is alive! 👨‍💻 Developer: Rk Axshu 🩷")
 );
 app.listen(PORT, () =>
   console.log(`🌐 Web server running on port ${PORT}`)
@@ -137,7 +137,7 @@ login({ appState }, (err, api) => {
   }
 
   console.log("✅ Logged in successfully.");
-  console.log("👨‍💻 Developer: Axshu 🩷");
+  console.log("👨‍💻 Developer:rk raja 🩷");
   console.log("🚀 Group name locker (fast + instant) activated.");
 
   startEventListener(api); // Event-driven instant reset
